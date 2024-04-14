@@ -93,7 +93,7 @@
 }
 .NGS-image {
     background-image: url("https://i0.wp.com/areaxbox.com/wp-content/uploads/2021/03/Phantasy-Star-Online-2-New-Genesis.jpg?fit=1200%2C675&ssl=1?v=1616083348");
-    background-color: #cccccc;
+    background-color: #6495ed;
     height: 500px;
     background-position: center;
     background-repeat: no-repeat;
@@ -111,7 +111,7 @@
     -webkit-text-stroke-color: black;
 }
 .NGS-image-tab {
-    background-color: #6495ED;
+    background-color: #6495ed;
     height: 200px;
     background-position: center;
     background-repeat: no-repeat;
@@ -135,7 +135,7 @@
     border-radius: 20px;
 }
 .NGS-image-tab-sub-2 {
-    background-color: #6495ED;
+    background-color: #6495ed;
     top 100%;
     background-position: center;
     background-repeat: no-repeat;
@@ -155,7 +155,7 @@
 }
 .NGS-image-Ryuker {
     background-image: url("https://i.imgur.com/h56iwjF.png");
-    background-color: #cccccc;
+    background-color: #6495ed;
     top: 20%;
     left: 20%;
     height: 2000px;
@@ -167,7 +167,7 @@
 }
 .NGS-image-Salon {
     background-image: url("https://i.imgur.com/GABAlpp.png");
-    background-color: #cccccc;
+    background-color: #6495ed;
     top: 20%;
     left: 20%;
     height: 2000px;
@@ -199,7 +199,7 @@
 }
 .NGS-image-sorry {
     background-image: url("https://cdn-icons-png.flaticon.com/512/60/60473.png");
-    background-color: #cccccc;
+    background-color: #6495ed;
     height: 500px;
     background-position: center;
     background-repeat: no-repeat;
